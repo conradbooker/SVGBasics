@@ -32,14 +32,14 @@
       }
     </style>
 
-  <rect class="bar" x="30" y="60" width="50" height="120"/>
-  <text class="label" x="55" y="195" text-anchor="middle">Mabs</text>
+  <rect id="mabs" class="bar" x="30" y="60" width="50" height="120"/>
+  <text class="label" x="75" y="195" text-anchor="middle">Mabs</text>
 
-  <rect class="bar" x="90" y="10" width="50" height="170"/>
-  <text class="label" x="115" y="195" text-anchor="middle">Tigre</text>
+  <rect id="tiger" class="bar" x="90" y="10" width="50" height="170"/>
+  <text class="label" x="135" y="195" text-anchor="middle">MOMOD</text>
 
-  <rect class="bar" x="150" y="10" width="50" height="170"/>
-  <text class="label" x="175" y="195" text-anchor="middle">Cat</text>
+  <rect id="cat" class="bar" x="150" y="10" width="50" height="170"/>
+  <text class="label" x="195" y="195" text-anchor="middle">Cat</text>
 
   <line class="grid" x1="10" y1="130.5" x2="200" y2="130.5"/>
   <line class="grid" x1="10" y1="80.5" x2="200" y2="80.5"/>

@@ -13,11 +13,35 @@
   font-size: 14px;
   fill: #444444
 }
-.bar {
-  stroke: #4f2cff;
+#mab {
+  stroke: #000000;
   stroke-width: 2;
   fill: #a9a9a9;
   opacity: 0.6;
+}
+#tiger {
+  stroke: #000000;
+  stroke-width: 2;
+  fill: #a9a9a9;
+  opacity: 0.6;
+}
+#cat {
+  stroke: #000000;
+  stroke-width: 2;
+  fill: #a9a9a9;
+  opacity: 0.6;
+}
+#cat:hover {
+  fill: #ec008c;
+  opacity: 1;
+}
+#tiger:hover {
+  fill: #ec008c;
+  opacity: 1;
+}
+#mab:hover {
+  fill: #ec008c;
+  opacity: 1;
 }
 .bar:hover {
     fill: #ec008c;
