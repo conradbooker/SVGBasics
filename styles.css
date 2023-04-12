@@ -14,6 +14,8 @@
   fill: #444444
 }
 .bar {
+  stroke: #4f2cff;
+  stroke-width: 2;
   fill: #a9a9a9;
   opacity: 0.6;
 }
